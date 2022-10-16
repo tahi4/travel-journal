@@ -1,0 +1,39 @@
+#root {
+
+  margin: 0 auto;
+
+}
+*{
+    margin: 0px;
+    padding: 0px;
+    top:0;
+    padding-top:0;
+    position:relative;
+    margin:0;
+}
+
+.Nav{
+  /* position: absolute; */
+  display: flex;
+  padding-left: 5px;
+  background-color: #F55A5A;
+  box-shadow: 0px 3px 7.5px rgba(0, 0, 0, 0.1);
+  margin-bottom: 60px;
+  padding: 10px;
+
+}
+.Nav--text > p{
+ 
+  color: aliceblue;
+  font-style: normal;
+  margin-left: 10px;
+}
+.Nav--text{
+  /* basically centers the div */
+  display: flex;
+  margin: auto;
+  /* helps w design */
+  padding: 10px;
+ 
+}
+

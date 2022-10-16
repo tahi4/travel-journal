@@ -1,0 +1,78 @@
+
+.Card{
+
+margin-top: 35px;
+padding: 10px;
+display: flex;
+justify-content: center;
+/* ^ justify content - centered all my cards to the middle */
+
+}
+.Card--text{
+   
+    margin-left: 20px;
+    /* seperated distance between the image and text */
+}
+.location{
+    
+    display: flex;
+    /* flex kept my location icon and country name side by side */
+    padding: 5px;
+    
+}
+.location > img{
+    max-height: 14px;
+    margin-right: 5px;
+   /* fixing location icon */
+}
+.location > p{
+
+font-size: 20px;
+color: #2B283A;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0.1em;
+
+}
+
+a{
+
+font-size: 15px;
+font-weight: 400;
+line-height: 15px;
+text-align: left;
+margin-left: 12px;
+color: #918E9B;
+
+;
+
+}
+.location--info{
+    margin: 5px;
+    padding: 5px;
+    /* background-color: aquamarine; */
+    /* i like giving background colours when ive started styling so i can have a visual reference where everything goes */
+}
+.location--info > h1{
+   
+    font-size: 40px;
+    line-height: 30px;
+    text-align: left;
+    height: 33px;
+    width: 450px;
+    margin-bottom: 20px;
+
+}
+.location--info > h5{
+    
+    font-size: 15px;
+    line-height: 20px;
+
+
+}
+.location--info > p{
+
+    font-size: 15px;
+    max-width: 400px;
+
+}
