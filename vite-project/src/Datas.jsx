@@ -4,7 +4,7 @@ export default [
 
 {
     id: "1",
-    img: "./public/Rectangle 77.png",
+    img: "./Rectangle 77.png",
     country: "JAPAN",
     place: "Mount Fuji",
     time: "12 Jan, 2021 - 24 Jan, 2021",
@@ -14,7 +14,7 @@ export default [
 
 {
     id: "2",
-    img: "./public/Rectangle 84.png",
+    img: "./Rectangle 84.png",
     country: "AUSTRALIA",
     place: "Sydney Opera House",
     time: "27 May, 2021 - 8 Jun, 2021",
@@ -24,7 +24,7 @@ export default [
 
  {
     id: "3",
-    img: "./public/Rectangle 78.png",
+    img: "./Rectangle 78.png",
     country: "NORWAY",
     place: "Geirangerfjord",
     time: "01 Oct, 2021 - 18 Nov, 2021",
